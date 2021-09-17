@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/filiaultd/GWAS_workshop_CK.git/master)
+
 
 # GWAS_workshop
 How to GWAS
