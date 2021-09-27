@@ -6,7 +6,7 @@ channels:
 dependencies:
   - jupyter
   - limix=3.0.4
-  - python=3.9
+  - python=3.7.5
   - r-essentials
 
 
