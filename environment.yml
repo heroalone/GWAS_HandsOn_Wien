@@ -8,5 +8,8 @@ dependencies:
   - limix=3.0.3
   - python=3.7.5
   - r-base=4.0.3
+  - r-ggplot2
+  - r-maps
+  - r-lattice
 
 
