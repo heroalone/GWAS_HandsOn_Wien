@@ -1,2 +1,9 @@
 # ignore DS.store
 .DS_Store
+
+
+# ignore keynote presentation
+*.key
+
+# ignore pages document of instructions for independent work
+*.pages
