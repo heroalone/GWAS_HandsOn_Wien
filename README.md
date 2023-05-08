@@ -1,7 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/picla/GWAS_workshop_CK/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heroalone/GWAS_HandsOn_Wien/master)
 
 # GWAS_workshop
-How to GWAS
+How to GWAS (inherited from Daniele Filiault & Pieter Clauw)
 
 ## Usage
 The jupyter notebooks can be used in an executable environment by clicking the Binder badge above.
